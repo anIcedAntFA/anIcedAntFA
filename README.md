@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ngockhoi96
 - 👀 I’m interested in Javascript, Rust, Go
-- 🌱 I’m currently learning Go, MySQL
+- 🌱 I’m currently learning Typescript, Go, MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ngockhoi96.dev@gmail.com
 
